@@ -304,12 +304,4 @@ footer .container .footer_card a:hover {
   .dropdown_menu li a {
     font-size: 1rem;
   }
-
-  .content_card {
-    flex-direction: column;
-  }
-
-  main .content .content_card .card:first-child {
-    width: 100%;
-  }
 }
