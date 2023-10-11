@@ -151,7 +151,6 @@ main .content_card {
   display: flex;
   gap: 5rem;
   width: 100%;
-  border: 1px solid seagreen;
 }
 main .content_card .card {
   display: flex;
