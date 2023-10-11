@@ -161,7 +161,7 @@ main #content #part_1 {
   gap: 1rem;
 }
 main #content #part_2 {
-  /* border: 1px solid slateblue; */
+  gap: 1rem;
 }
 main #content #part_2 .offer_card {
   display: flex;
