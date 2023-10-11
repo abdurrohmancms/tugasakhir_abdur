@@ -156,8 +156,6 @@ main .content_card {
 main .content_card .card {
   display: flex;
   flex-direction: column;
-  border: 1px solid seagreen;
-  /* width: 100%; */
 }
 main .content_card .card:first-child {
   width: 70%;
