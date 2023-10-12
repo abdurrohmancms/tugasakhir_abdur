@@ -187,7 +187,7 @@ main #content #part_2 .offer_card {
   align-items: center;
 }
 main #content #part_2 .offer_card div {
-  padding: 2rem;
+  padding: 1rem;
   border-radius: 1rem;
   /* border: 1px solid slateblue; */
   text-align: center;
